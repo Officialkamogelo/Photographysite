@@ -1,5 +1,5 @@
 # Photographysite
-Creating a personal portfolio using 
+Creating a Photographysite using 
 HTML CSS
 
 
